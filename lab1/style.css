@@ -1,0 +1,21 @@
+.center {
+    margin-left: 1%;
+    margin-right: 75px;
+    display: block;
+}
+.css{
+    text-align: center;
+    color:rgb(0, 0, 0)
+}
+section{
+    display: flex;
+}
+.left{
+    padding-top: 1px;
+    margin-left: 1%;
+    margin-right: 70px;
+    display: block;
+}
+a:hover{
+    color: rgb(0, 243, 0);
+}
